@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@tomtom-international/web-sdk-maps": "^6.23.0",
+    "@tomtom-international/web-sdk-services": "^6.23.0",
+    "ip-geolocation-api-javascript-sdk": "^1.0.9"
+  }
+}
+ 
